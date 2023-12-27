@@ -14,7 +14,7 @@ class _LanguagelistState extends State<Languagelist> {
       appBar: AppBar(
         // automaticallyImplyLeading: false,
           title:const Text("Change Language ")),
-      body:const  language(),
+      body:const  Language(),
     );
   }
 }

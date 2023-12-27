@@ -25,7 +25,7 @@ The app includes various screens that demonstrate different functionalities and 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/authentication_app.git
+   git clone https://github.com/AAShayon01/authentication_app.git
 
 ## Navigate to the project directory:
 cd authentication_app

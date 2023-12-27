@@ -276,6 +276,9 @@ class _MyloginState extends State<Mylogin> {
                             ],
                           ),
                         ),
+                        TextButton(onPressed: (){
+                          SHelperFunctions.navigateToScreen(context, Homepage());
+                        }, child: Text('Go'))
                       ],
                     )
                   ],

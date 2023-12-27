@@ -19,7 +19,7 @@ Easy Localization is integrated into the app to support multiple languages. The 
 ## Screens
 
 The app includes various screens that demonstrate different functionalities and features. Explore the app to discover the seamless user experience and the integration of state management, shared preferences, and internationalization.
-![Screenshot_2023-12-27-12-59-13-43_2c9cf3b7d37d584daba367b0ade373da]((https://github.com/AAShayon01/authentication_app/assets/146196320/39111582-dc5f-4f5a-9f90-74ddd259cccb width="200")
+![Screenshot_2023-12-27-12-59-13-43_2c9cf3b7d37d584daba367b0ade373da]((https://github.com/AAShayon01/authentication_app/assets/146196320/39111582-dc5f-4f5a-9f90-74ddd259cccb )
 ![Screenshot_2023-12-27-12-33-53-78_2c9cf3b7d37d584daba367b0ade373da](https://github.com/AAShayon01/authentication_app/assets/146196320/f4521a24-0cc0-45fd-acfd-2ba51bf3ad95)
 ![Screenshot_2023-12-27-12-33-50-13_2c9cf3b7d37d584daba367b0ade373da](https://github.com/AAShayon01/authentication_app/assets/146196320/707c59b9-f87c-4f60-b389-2b63b74da454)
 ![Screenshot_2023-12-27-12-33-31-48_2c9cf3b7d37d584daba367b0ade373da](https://github.com/AAShayon01/authentication_app/assets/146196320/7647a608-a1d4-4e77-9478-7b44c4daf479)

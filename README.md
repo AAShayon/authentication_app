@@ -23,7 +23,7 @@ The app features a splash screen that provides a visually appealing introduction
 ## Screens
 
 The app includes various screens that demonstrate different functionalities and features. Explore the app to discover the seamless user experience and the integration of state management, shared preferences, and internationalization.
-<img src="https://github.com/AAShayon01/authentication_app/blob/main/assets/146196320/39111582-dc5f-4f5a-9f90-74ddd259cccb.png" width="100%" height="200">
+<img src="https://drive.google.com/file/d/1b6Dnk907x3E7xLPTGgDObJCoUoVIWQtL/view?usp=drive_link" width="100%" height="200">
 
 
 <p>Test==================</p>

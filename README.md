@@ -28,28 +28,28 @@ The app includes various screens that demonstrate different functionalities and 
 <img src="appss/1.jpg" alt="Splash Screen" width="400" height="600">            <img src="appss/2.jpg" alt="Splash Screen" width="400" height="600"> 
 
 
-<img src="appss/3.jpg" alt="Splash Screen" width="400" height="400">            <img src="appss/4.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/3.jpg" alt="Splash Screen" width="400" height="600">            <img src="appss/4.jpg" alt="Splash Screen" width="400" height="600">
 
 
-<img src="appss/5.jpg" alt="Splash Screen" width="400" height="400">            <img src="appss/6.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/5.jpg" alt="Splash Screen" width="400" height="600">            <img src="appss/6.jpg" alt="Splash Screen" width="400" height="600">
 
 
-<img src="appss/7.jpg" alt="Splash Screen" width="400" height="400">            <img src="appss/8.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/7.jpg" alt="Splash Screen" width="400" height="600">            <img src="appss/8.jpg" alt="Splash Screen" width="400" height="600">
 
 
-<img src="appss/9.jpg" alt="Splash Screen" width="400" height="400">            <img src="appss/10.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/9.jpg" alt="Splash Screen" width="400" height="600">            <img src="appss/10.jpg" alt="Splash Screen" width="400" height="600">
 
 
-<img src="appss/11.jpg" alt="Splash Screen" width="400" height="400">           <img src="appss/12.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/11.jpg" alt="Splash Screen" width="400" height="600">           <img src="appss/12.jpg" alt="Splash Screen" width="400" height="600">
 
 
-<img src="appss/13.jpg" alt="Splash Screen" width="400" height="400">           <img src="appss/14.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/13.jpg" alt="Splash Screen" width="400" height="600">           <img src="appss/14.jpg" alt="Splash Screen" width="400" height="600">
 
 
-<img src="appss/15.jpg" alt="Splash Screen" width="400" height="400">           <img src="appss/16.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/15.jpg" alt="Splash Screen" width="400" height="600">           <img src="appss/16.jpg" alt="Splash Screen" width="400" height="600">
 
 
-<img src="appss/17.jpg" alt="Splash Screen" width="400" height="400">           <img src="appss/18.jpg" alt="Splash Screen" width="400" height="400">
+<img src="appss/17.jpg" alt="Splash Screen" width="400" height="600">           <img src="appss/18.jpg" alt="Splash Screen" width="400" height="600">
 ## How to Run the App
 
 1. Clone this repository to your local machine:

@@ -50,6 +50,10 @@ The app includes various screens that demonstrate different functionalities and 
 
 
 <img src="appss/17.jpg" alt="Splash Screen" width="400" height="600">           <img src="appss/18.jpg" alt="Splash Screen" width="400" height="600">
+
+
+
+
 ## How to Run the App
 
 1. Clone this repository to your local machine:
@@ -60,3 +64,8 @@ The app includes various screens that demonstrate different functionalities and 
 ## Navigate to the project directory:
 cd authentication_app
 flutter run
+
+
+## Download the APK
+
+Download the latest version of the app from [here](https://drive.google.com/file/d/1jA45VN1tfW3Gpkm0QjDHGjhcSRmNt41J/view?usp=sharing).

@@ -25,7 +25,8 @@ The app features a splash screen that provides a visually appealing introduction
 The app includes various screens that demonstrate different functionalities and features. Explore the app to discover the seamless user experience and the integration of state management, shared preferences, and internationalization.
 
 
-<img src="appss/1.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/2.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/3.jpg" alt="Splash Screen" width="200" height="200">
+<img src="appss/1.jpg" alt="Splash Screen" width="360" height="800">    <img src="appss/2.jpg" alt="Splash Screen" width="360" height="800"> 
+<img src="appss/3.jpg" alt="Splash Screen" width="200" height="200">
 <img src="appss/4.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/5.jpg" alt="Splash Screen" width="200" height="200">
 <img src="appss/6.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/7.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/8.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/9.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/10.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/11.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/12.jpg" alt="Splash Screen" width="200" height="200">
 <img src="appss/13.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/14.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/15.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/16.jpg" alt="Splash Screen" width="200" height="200"><img src="appss/17.jpg" alt="Splash Screen" width="200" height="200">

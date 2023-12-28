@@ -1,1 +1,1 @@
-# authentication_app
+<img src="appss/IMG_20231227_123428.jpg" alt="Splash Screen" width="200" height="200"> <img src="appss/Screenshot_2023-12-27-10-39-37-85_2c9cf3b7d37d584daba367b0ade373da.jpg" alt="Splash Screen" width="200" height="200">

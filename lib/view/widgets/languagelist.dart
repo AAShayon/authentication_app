@@ -27,7 +27,7 @@ class _LanguageState extends State<Language> {
                 groupValue: selectedValue,
                 onChanged: (value) {
                   context.setLocale(Locale("bn"));
-                  Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>Homepage()));
+                  Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder: (context)=>Homepage()),(route) => false,);
                 },
               ),
               const Text("Bangla"),
@@ -41,8 +41,7 @@ class _LanguageState extends State<Language> {
                 activeColor: Colors.black,
                 onChanged: (value) {
                   context.setLocale(Locale('en'));
-                  // SHelperFunctions.navigateToScreen(context, Homepage());
-                  Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>Homepage()));
+                  Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder: (context)=>Homepage()),(route) => false,);
                 },
               ),
               const Text("English"),

@@ -25,7 +25,7 @@ The app features a splash screen that provides a visually appealing introduction
 The app includes various screens that demonstrate different functionalities and features. Explore the app to discover the seamless user experience and the integration of state management, shared preferences, and internationalization.
 
 
-<img src="appss/1.jpg" alt="Splash Screen" width="400" height="400">            <img src="appss/2.jpg" alt="Splash Screen" width="400" height="400"> 
+<img src="appss/1.jpg" alt="Splash Screen" width="400" height="600">            <img src="appss/2.jpg" alt="Splash Screen" width="400" height="600"> 
 
 
 <img src="appss/3.jpg" alt="Splash Screen" width="400" height="400">            <img src="appss/4.jpg" alt="Splash Screen" width="400" height="400">

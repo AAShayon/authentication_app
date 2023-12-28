@@ -54,7 +54,7 @@ class LoginProvider extends ChangeNotifier{
         passwordErrorText='';
 
       // Navigator.push(context, MaterialPageRoute(builder: (context)=>Newone()),)
-      SHelperFunctions.navigateToScreen(context,const Homepage());
+        Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>Homepage()));
     }else{
       if(phoneNumberController.text.isEmpty){
 

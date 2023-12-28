@@ -18,8 +18,6 @@ class Settings extends StatelessWidget {
     final dark=SHelperFunctions.isDarkMode(context);
     String currentLocale = context.locale.toString();
     String languageCode = currentLocale.split('_')[0];
-    String thememode=rp.themeMode.toString();
-    String runningTheme=thememode.split('_')[0];
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: 40,

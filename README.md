@@ -60,6 +60,8 @@ The app includes various screens that demonstrate different functionalities and 
 
    ```bash
    git clone https://github.com/AAShayon01/authentication_app.git
+   ```Then Checkout master Branch
+ 
 
 ## Navigate to the project directory:
 cd authentication_app
